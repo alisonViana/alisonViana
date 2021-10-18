@@ -2,7 +2,7 @@
 - 👀	I’m interested in Data Science, Statistics, IoT and Android
 - 🌱	I’m currently learning Python and Kotlin
 - 💡	I also like develop some projects with Arduino and PIC MCUs
-- 📫	You can reach me at alisonviana.c@gmail.com
+- 📫	You can reach me at alisonviana.c@gmail.com or [LinkedIn](https://www.linkedin.com/in/alisonviana/)
 
 **Curiosity is my guide!**
 
