@@ -1,5 +1,5 @@
 # Hi, I’m Alison Viana, welcome to my GitHub! 👋
-- 👀	I’m interested in Data Science, Statistics, IoT and Android
+- 👀	I’m interested in Android, IoT and automation
 - 🌱	I’m currently learning Python and Kotlin
 - 💡	I also like develop some projects with Arduino and PIC MCUs
 - 📫	You can reach me at alisonviana.c@gmail.com or [LinkedIn](https://www.linkedin.com/in/alisonviana/)
